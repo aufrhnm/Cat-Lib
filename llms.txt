@@ -1,0 +1,8 @@
+baltimore-catechism/BaltimoreCat3-B0-TOC.md
+baltimore-catechism/BaltimoreCat3-B1-Intro.md
+baltimore-catechism/BaltimoreCat3-B2A-Creed.md
+baltimore-catechism/BaltimoreCat3-B2B-Creed.md
+baltimore-catechism/BaltimoreCat3-B3-Commandments.md
+baltimore-catechism/BaltimoreCat3-B4A-Sacraments-Prayers.md
+baltimore-catechism/BaltimoreCat3-B4B-Sacraments-Prayers.md
+baltimore-catechism/BaltimoreCat3-B5-Appendices.md
